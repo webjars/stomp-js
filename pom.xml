@@ -11,7 +11,7 @@
     <packaging>jar</packaging>
     <groupId>org.webjars</groupId>
     <artifactId>stomp-js</artifactId>
-    <version>ca2e094679-SNAPSHOT</version>
+    <version>ca2e094679</version>
     <name>stomp-js</name>
     <description>WebJar for stomp-js</description>
     <url>http://webjars.org</url>
@@ -28,7 +28,7 @@
         <url>http://github.com/webjars/stomp-js</url>
         <connection>scm:git:https://github.com/webjars/stomp-js.git</connection>
         <developerConnection>scm:git:https://github.com/webjars/stomp-js.git</developerConnection>
-        <tag>HEAD</tag>
+        <tag>stomp-js-ca2e094679</tag>
     </scm>
 
     <developers>
